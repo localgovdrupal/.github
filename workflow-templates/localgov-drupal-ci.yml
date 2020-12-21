@@ -10,9 +10,13 @@ jobs:
   test:
 
     runs-on: ubuntu-latest
-    php-version: '7.4'
 
     steps:
+      - name: setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+ 
       - name: Clone drupal_container
         uses: actions/checkout@v2
         with:
