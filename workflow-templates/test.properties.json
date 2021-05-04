@@ -1,0 +1,8 @@
+{
+    "name": "Test LocalGov Drupal",
+    "description": "Run coding standards, deprecated code checks and PHPUnit tests.",
+    "iconName": "Druplicon.vector",
+    "categories": [
+        "PHP"
+    ]
+}

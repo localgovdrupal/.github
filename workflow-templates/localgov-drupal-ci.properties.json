@@ -1,8 +1,0 @@
-{
-    "name": "LocalGov Drupal PHPUnit Workflow",
-    "description": "Run all tests.",
-    "iconName": "Druplicon.vector",
-    "categories": [
-        "PHP"
-    ]
-}
