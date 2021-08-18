@@ -24,6 +24,10 @@
     <env name="BROWSERTEST_OUTPUT_BASE_URL" value=""/>
   </php>
 
+  <testsuite>
+    <directory>web/modules/contrib/localgov_*</directory>
+  </testsuite>
+
   <listeners>
     <listener class="\Drupal\Tests\Listeners\DrupalListener">
     </listener>
