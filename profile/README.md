@@ -13,4 +13,4 @@ Right now, developers, UX designers, product managers, and content designers are
 * [Opening a new issue](https://github.com/localgovdrupal/localgov/issues) to report a bug or suggest a new feature
 
 -----
-We welcome contribution from people of all backgrounds, in accordance with the [LocalGov Drupal Code of Conduct](https://github.com/weareopen/localgov/blob/2.x/code_of_conduct.md). If you would like to encourage your local council to get involved with this project, please direct decision-makers towards [this page](https://localgovdrupal.org/drupal-for-councils). 
+We welcome contribution from people of all backgrounds, in accordance with the [LocalGov Drupal Code of Conduct](https://localgovdrupal.org/about-lgd/code-conduct). If you would like to encourage your local council to get involved with this project, please direct decision-makers towards [this page](https://localgovdrupal.org/drupal-for-councils). 
